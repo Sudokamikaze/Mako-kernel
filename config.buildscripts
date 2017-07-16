@@ -7,6 +7,6 @@ DEVICE=mako
 BRANCH=quanta
 VER=N
 CLEAN_TOOLCHAIN_PATH="$HOME/Git/toolchains/clean-tc"
-TOOLCHAIN_PATH="$HOME/Git/toolchains/6.3_a15"
+TOOLCHAIN_PATH="$HOME/Git/toolchains/4.9_a15"
 ONLYZIMAGE=true
 FLASHER=anykernel
