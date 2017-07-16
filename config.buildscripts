@@ -4,7 +4,7 @@ echo "Do not execure this, and do not edit"
 exit 1
 
 DEVICE=mako
-BRANCH=mako
+BRANCH=quanta
 VER=N
 CLEAN_TOOLCHAIN_PATH="$HOME/Git/toolchains/clean-tc"
 TOOLCHAIN_PATH="$HOME/Git/toolchains/6.3_a15"
