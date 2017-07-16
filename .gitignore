@@ -84,5 +84,8 @@ GTAGS
 *.orig
 *~
 \#*#
-boot.img
-zip/
+
+/build.sh
+/clean.sh
+/zip_creator.sh
+/make_defconfig.sh
