@@ -3,7 +3,7 @@
 echo "Do not execure this, and do not edit"
 exit 1
 
-KERNELNAME=QuantaReborn
+KERNELNAME=QuantaR
 DEVICE=mako
 BRANCH=quanta
 VER=N
