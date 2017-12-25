@@ -5,10 +5,12 @@ exit 1
 
 KERNELNAME=QuantaR
 DEVICE=mako
-BRANCH=quanta
+BRANCH=sudokamikaze_kernels
 VER=N
-CLEAN_TOOLCHAIN_PATH="$HOME/Git/toolchains/clean-tc"
-TOOLCHAIN_PATH="$HOME/Git/toolchains/4.9_a15"
+MODULES=false
+PATCH=true
+CLEAN_TOOLCHAIN_PATH="$HOME/storage/toolchains/clean-tc"
+TOOLCHAIN_PATH="$HOME/storage/toolchains/6.4_a15"
 ONLYZIMAGE=true
 FLASHER=anykernel
 DEFCONFIG=quanta_defconfig
